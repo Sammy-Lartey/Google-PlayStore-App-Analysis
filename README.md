@@ -4,7 +4,7 @@ Have you ever thought about building your own an iOS or Android app? If so, then
 
 
 
-In this module, we will compare thousands of apps in the Google Play Store so that we can gain insight into:
+In this repository, we will compare thousands of apps in the Google Play Store so that we can gain insight into:
 
 How competitive different app categories (e.g., Games, Lifestyle, Weather) are
 
